@@ -12,7 +12,7 @@ It is recommended to have played the base game and finished a True Ending playth
 
 ## To Generate a Game
 
-1. Download 'neprb3.yaml' from the latest release on the [Archipelago HDN RB3 Releases page](https://github.com/Veloalopus/Archipelago-hdn-rb3/releases)
+1. Download 'hdnrb3.yaml' from the latest release on the [Archipelago HDN RB3 Releases page](https://github.com/Veloalopus/Archipelago-hdn-rb3/releases)
 2. Edit the file to your desired settings.
 3. Navigate to your Archipelago Installation (`C:\ProgramData\Archipelago)
 4. Navigate to the 'Players' folder under your base folder.
@@ -34,6 +34,7 @@ It is recommended to have played the base game and finished a True Ending playth
 5. Enter your slot name into the client.
 
 6. Press New Game.
+
 
 
 
