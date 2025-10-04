@@ -6,7 +6,7 @@ It is recommended to have played the base game and finished a True Ending playth
 ## To Install
 
 1. Download and install the latest Archipelago release on the [Archipelago HDN RB3 Release Page](https://github.com/ArchipelagoMW/Archipelago/releases)
-2. Download the 'neprb3.apworld' from the latest release on [Archipelago HDN RB3 Release Page] (https://github.com/Veloalopus/Archipelago-neprb3/releases)
+2. Download the 'neprb3.apworld' from the latest release on [Archipelago HDN RB3 Release Page](https://github.com/Veloalopus/Archipelago-neprb3/releases)
 3. Open 'neprb3.apworld' with the Archipelago Launcher, is should automatically install.
 4. If it does not automatically install, navigate to your Archipelago worlds folder (by default, `C:\ProgramData\Archipelago\lib\worlds) and place the ap world there.
 
@@ -34,4 +34,5 @@ It is recommended to have played the base game and finished a True Ending playth
 5. Enter your slot name into the client.
 
 6. Press New Game.
+
 
