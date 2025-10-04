@@ -12,7 +12,7 @@ The goal is to obtain 5 Important Key Items in order to trigger the flag to figh
 
 ## What items and locations can get shuffled?
 
-- All items, weapons, armors, ornaments, clothing
+- All items, weapons, armors, ornaments, clothing and plans
 - All Treasure and Gather points
 - Quests, Colosseum rewards, enemy and boss drops
 - All Dungeons, events, nations
