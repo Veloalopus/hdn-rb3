@@ -21,10 +21,12 @@ It is recommended to have played the base game and finished a True Ending playth
 7. Your generated game will be in the 'Output' folder in the Archipelago base folder.
 
 ## To Host a Game
+
 1. Navigate to the [Host Game](https://archipelago.gg/uploads) page.
 2. Upload the '.zip' file outputted from the above "To Generate a Game"
 
 ## To Start Playing
+
 1. Make sure you have an Archipelago Room open.
 2. Open the Archipelago Launcher and click "NEPRB3 Client"
 3. Connect to the room via the room URL and Port.
@@ -32,3 +34,4 @@ It is recommended to have played the base game and finished a True Ending playth
 5. Enter your slot name into the client.
 
 6. Press New Game.
+
