@@ -293,7 +293,7 @@ wonderful_veil_plan = "Plan - Wonderful Veil"
 cute_ribbon_plan = "Plan - Cute Ribbon"
 nmt_nmt_plan = "Plan - NMT! NMT!"
 cute_animals_plan = "Plan - Cute Animals"
-Glasses_moe_plan = "Plan - Glasses MOE!"
+glasses_moe_plan = "Plan - Glasses MOE!"
 the_celeb_plan = "Plan - The Celeb"
 ilovecats_plan = "Plan - I LOVE Cats"
 the_soul_of_evil_plan = "Plan - The Soul of Evil"
@@ -998,6 +998,7 @@ fps_chip = "Idea Chips - "
 
 
 ItemName.cpu_aegis_ornament: ItemData(x, xxx, xxxxxx, x)
+
 
 
 
